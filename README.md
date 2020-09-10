@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I am Nafi 👋
 
-<!--
-**nafidurmus/nafidurmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Web Developer, Blogger
 
-Here are some ideas to get you started:
+[website][website] **|** 
+[twitter][twitter] **|** 
+[instagram][instagram] **|** 
+[linkedin][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[website]: https://nafidurmus.com/
+[twitter]: https://twitter.com/nafidurmus
+[instagram]: https://www.instagram.com/nafidurmus/
+[linkedin]: https://www.linkedin.com/in/nafidurmus/
